@@ -41,7 +41,7 @@ pip install shadowsocks
 
 vim /root/shadowsocks.json
 {
-  "server":"${your server's IPv4}",
+  "server":"${your server\'s IPv4}",
   "port_password":{
     "${port_1}":"${password_1}",
     "${port_2}":"${password_2}",
